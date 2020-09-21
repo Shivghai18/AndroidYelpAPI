@@ -1,0 +1,2 @@
+rootProject.name='AndroidYelpAssesment'
+include ':app'
